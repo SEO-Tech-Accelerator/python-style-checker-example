@@ -1,0 +1,1 @@
+[![Check Style](https://github.com/SEO-Tech-Accelerator/python-style-checker-example/actions/workflows/checkstyle.yaml/badge.svg)](https://github.com/SEO-Tech-Accelerator/python-style-checker-example/actions/workflows/checkstyle.yaml)
